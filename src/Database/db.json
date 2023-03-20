@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "task": "Doctors Appointments",
+      "day": "2023-03-07",
+      "time": "13:32",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "task": "Meeting at Pub",
+      "day": "2023-03-15",
+      "time": "05:34",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "task": "sdsd",
+      "day": "2023-03-21",
+      "time": "16:24",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "task": "asasasa",
+      "day": "2023-03-22",
+      "time": "16:27",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
